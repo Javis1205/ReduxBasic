@@ -1,0 +1,18 @@
+dependencies: \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/DevSupport/RCTPackagerClient.m \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/DevSupport/RCTPackagerClientResponder.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/javis/Documents/React-native/ReduxBasic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/javis/Documents/React-native/ReduxBasic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/javis/Documents/React-native/ReduxBasic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/javis/Documents/React-native/ReduxBasic/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
